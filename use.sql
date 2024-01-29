@@ -1,0 +1,1 @@
+use latihan; /*Memilih database*/
